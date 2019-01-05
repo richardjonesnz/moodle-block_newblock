@@ -1,4 +1,4 @@
- copyright  Daniel Neis <danielneis@gmail.com>
+ Copyright  Daniel Neis <danielneis@gmail.com>
 
  Modified for use in MoodleBites for Developers Level 1
  by Richard Jones & Justin Hunt.
