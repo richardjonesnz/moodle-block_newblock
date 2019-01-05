@@ -33,3 +33,7 @@
 // General
 $string['pluginname'] = 'New Block';
 $string['welcomeuser'] = 'Welcome {$a->firstname} {$a->lastname}';
+
+// Capability strings
+$string['newblock:addinstance'] = 'Add a new block';
+$string['newblock:myaddinstance'] = 'Add a new block to my moodle';

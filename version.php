@@ -30,6 +30,6 @@
  */
 defined('MOODLE_INTERNAL') || die();
 
-$plugin->version   = 2019010501; // Minimal block
+$plugin->version   = 2019010502; // Minimal block
 $plugin->requires  = 2017111300; // Minimum Moodle 3.4.
 $plugin->component = 'block_newblock';
