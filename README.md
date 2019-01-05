@@ -5,7 +5,7 @@
 
  See: https://www.moodlebites.com/mod/page/view.php?id=24546
 
- Clone or download the zip file.
+ Clone or download the zip file for a branch.  If you are following our MoodleBites course, clone or download branch start_point.
 
 Rename the newblock/ folder to the name of your module (eg "widget").
 The module folder MUST be lower case.
