@@ -15,11 +15,18 @@
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
 
 /**
- * block_newblock main file
+ * block_newblock capabilities/permissions
  *
  * @package   block_newblock
- * @copyright 2018 Richard Jones <richardnz@outlook.com>
+ * @copyright  Daniel Neis <danielneis@gmail.com>
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
+ */
+
+/**
+ * Modified for use in MoodleBites for Developers Level 1
+ * by Richard Jones & Justin Hunt.
+ *
+ * See: https://www.moodlebites.com/mod/page/view.php?id=24546
  */
 
 defined('MOODLE_INTERNAL') || die();
